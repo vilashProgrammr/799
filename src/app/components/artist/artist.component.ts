@@ -7,7 +7,7 @@ import {ActivatedRoute} from '@angular/router';
 @Component({
   moduleId: module.id,
   selector: 'artist',
-  templateUrl: './artist.component.html'
+  templateUrl: './artist.component.html',
   providers : [SpotifyService]
 })
 
